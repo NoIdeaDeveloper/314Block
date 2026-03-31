@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/noideadeveloper/314block
 ! Last modified: 2026-03-31
 ! Expires: 4 days (update frequency)
-! Total entries: 26
+! Total entries: 27
 
 ||alive.github.com^
 ||analytics.hncompanion.com^
@@ -24,6 +24,7 @@
 ||launchdarkly.com^
 ||ls.apple.com^
 ||mailjet.com^
+||sentry.tilosoftware.io^
 ||smassets.net^
 ||socialintents.com^
 ||stripocdn.email^
